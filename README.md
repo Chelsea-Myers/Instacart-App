@@ -1,5 +1,3 @@
-# Instacart_Dash_Apps
+# Instacart_Dash_App
 
-Various Plotly Dash Apps created using a subset of the Instacart Dataset found on Kaggle.
-
-Inspiration drawn from the [Plotly Dash Tutorial](https://dash.plotly.com/tutorial)
+Plotly Dash App that visualizes the number of orders per day and days per week.  Inspiration from: [Plotly Dash Tutorial](https://dash.plotly.com/tutorial)
